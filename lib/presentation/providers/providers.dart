@@ -6,3 +6,6 @@ export 'sensors/acelerometro_providers.dart';
 export 'sensors/magnetometro_provider.dart';
 
 export 'compass/compass_provider.dart';
+
+export 'pokemons/pokemon_list_provider.dart';
+export 'pokemons/pokemon_provider.dart';

@@ -7,3 +7,6 @@ export 'sensors/brujula_screen.dart';
 export 'sensors/giroscopio_ball_screen.dart';
 export 'sensors/giroscopio_screen.dart';
 export 'sensors/magnetometro_screen.dart';
+
+export 'pokemons/pokemons_screen.dart';
+export 'pokemons/pokemon_screen.dart';
